@@ -14,7 +14,6 @@ Algorithm Study Repository
 - [Problems](#Problems)
 - [Introduction](#Introduction)
 - [Rules](#Rules)
-- [Schedule](#Schedule)
 
 
 ## Problems
@@ -38,6 +37,8 @@ Algorithm Study Repository
 ## Introduction
 
 Algorithm study를 위한 레포입니다. 매일 (혹은 정해진 날) algorihthm을 공부하고 문제를 풀고 각자 디렉토리에 문제를 업로드 합니다.
+
+## Rules
 
 ### Overall
 
