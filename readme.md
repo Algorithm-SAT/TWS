@@ -1,12 +1,12 @@
 <div align="center">
 
-# BOJ-Monkeys
+# Saturday Algorithm Club
 
 ![languages](https://img.shields.io/github/languages/count/BOJ-Monkeys/BOJ-monkey)
 ![issues](https://img.shields.io/github/issues-pr/BOJ-Monkeys/BOJ-monkey)
 ![commits](https://img.shields.io/github/commit-activity/m/BOJ-Monkeys/BOJ-monkey)
 
-BOJ 문제 풀기 레포
+Algorithm Study Repository
 
 </div>
 
@@ -21,21 +21,23 @@ BOJ 문제 풀기 레포
 <details>
   <summary>Click to expand!</summary>
   
-### 230620
-+ [주사위 세개](https://www.acmicpc.net/problem/2480)
+### 230903
++ 오늘은 Stack에 대해서 공부하고 Stack 관련 문제를 해결합니다.
++ [괄호](https://www.acmicpc.net/problem/9012)
++ [단어 뒤집기](https://www.acmicpc.net/problem/9093)
   
 <details>
   <summary>이전 문제들!</summary>
   
-### 230619
-+ [별 찍기 - 2](https://www.acmicpc.net/problem/2439)
+### 230901
++ [앞으로 열심히 풀어요!]
 
 </details>
 </details>
 
 ## Introduction
 
-백준 문제 풀이를 위한 레포입니다. 매일 (혹은 정해진 날) 문제를 풀고 각자 디렉토리에 문제를 업로드 합니다.
+Algorithm study를 위한 레포입니다. 매일 (혹은 정해진 날) algorihthm을 공부하고 문제를 풀고 각자 디렉토리에 문제를 업로드 합니다.
 
 ### Overall
 
