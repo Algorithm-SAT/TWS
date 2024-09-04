@@ -2,9 +2,9 @@
 
 # Saturday Algorithm Club
 
-![languages](https://img.shields.io/github/languages/count/BOJ-Monkeys/BOJ-monkey)
-![issues](https://img.shields.io/github/issues-pr/BOJ-Monkeys/BOJ-monkey)
-![commits](https://img.shields.io/github/commit-activity/m/BOJ-Monkeys/BOJ-monkey)
+![languages](https://img.shields.io/github/languages/count/Algorithm-SAT/TWS)
+![issues](https://img.shields.io/github/issues-pr/Algorithm-SAT/TWS)
+![commits](https://img.shields.io/github/commit-activity/m/Algorithm-SAT/TWS)
 
 Algorithm Study Repository
 
