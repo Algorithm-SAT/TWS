@@ -1,0 +1,61 @@
+﻿# 240920
+
+## 피보나치 함수
+https://www.acmicpc.net/problem/1003
+```java
+package d240920;  
+  
+import java.io.*;  
+  
+public class boj1003 {  
+  public static void main(String[] args) throws IOException{  
+  BufferedReader br=new BufferedReader(new InputStreamReader(System.in));  
+ int n=Integer.parseInt(br.readLine());  
+  Integer[][] arr=new Integer[41][2];  
+  arr[0][0]=1;  
+  arr[0][1]=0;  
+  arr[1][0]=0;  
+  arr[1][1]=1;  
+ for(int i=0;i<n;i++){  
+  int tep=Integer.parseInt(br.readLine());  
+ for(int j=2;j<=tep;j++){  
+  arr[j][0]=arr[j-1][0]+arr[j-2][0];  
+  arr[j][1]=arr[j-1][1]+arr[j-2][1];  
+  }  
+  System.out.println(arr[tep][0]+" "+arr[tep][1]);  
+  }  
+  
+  }  
+  
+}
+
+```
+
+## 피보나치 수2
+https://www.acmicpc.net/problem/2748
+```java
+package d240920;  
+  
+import java.io.BufferedReader;  
+import java.io.IOException;  
+import java.io.InputStreamReader;  
+  
+public class boj2748 {  
+  public static void main(String[] args)throws IOException {  
+  BufferedReader br=new BufferedReader(new InputStreamReader(System.in));  
+ int n=Integer.parseInt(br.readLine());  
+ long tep[]=new long[n+1];  
+  tep[0]=0;  
+  tep[1]=1;  
+ for(int i=2;i<=n;i++){  
+  tep[i]=tep[i-1]+tep[i-2];  
+  }  
+  System.out.println(tep[n]);  
+  }  
+  
+}
+
+```
+
+
+다이나믹 프로그래밍에 대해 학습했습니다.
